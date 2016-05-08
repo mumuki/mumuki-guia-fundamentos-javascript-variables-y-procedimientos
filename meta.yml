@@ -1,0 +1,11 @@
+---
+name: Variables y Procedimientos, Revisado
+locale: es
+type: learning
+beta: false
+teacher_info: "* Variables y Procedimientos \n\n   * ¿Y el program?\n   * Variables\n
+  \  * Variables, actualizaciones comunes\n   * No tan functions\n   * ¡Repetí conmigo!\n
+  \  * ¿Y el tablero?\n   * Impresión por pantalla\n   * ¿Y candela?"
+language: javascript
+id_format: '%05d'
+order: []
