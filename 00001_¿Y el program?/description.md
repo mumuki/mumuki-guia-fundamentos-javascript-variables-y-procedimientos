@@ -20,6 +20,6 @@ console.log("La primera tirada dio " + segundaTirada);
 console.log("La primera tirada dio " + terceraTirada);
 ```
 
-> Copiá y enviá este programa
+> Copiá y enviá este programa. 
 
 

@@ -9,3 +9,5 @@ Utilizamos el operador `+` de una forma diferente, operando un string y un núme
 * si operamos dos números con `+`, se suman
 * si operamos dos strings con `+`, se concatenan
 * si operamos un string y un número `+`, se convierte el número a string, y luego se concatenan
+
+Ah, ¿y qué será ese `var`? La respuesta, a continuación
