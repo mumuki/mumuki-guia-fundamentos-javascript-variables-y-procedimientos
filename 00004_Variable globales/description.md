@@ -1,0 +1,1 @@
+Podemos declarar variables tanto directamente en el programa, como dentro de un procedimiento.
