@@ -9,12 +9,12 @@ teacher_info: "* Variables y Procedimientos \n\n   * ¿Y el program?\n   * Varia
 language: javascript
 id_format: '%05d'
 order:
+- 6
+- 9
 - 1
 - 2
 - 3
 - 4
 - 5
-- 6
-- 9
 - 8
 - 7
