@@ -1,4 +1,4 @@
-var console = {
+var fakeConsole = {
   lines: [],
   log: function(line) {
     this.lines.push(line + "\n");

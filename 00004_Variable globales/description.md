@@ -14,7 +14,7 @@ function cuentaLoca(unNumero) {
 Las variables declaradas dentro de una `function`, conocidas como _variables locales_, no presentan mayor misterio. Sin embargo, hay que tener un particular cuidado: sólo se pueden utilizar desde dentro de la `function` en cuestión. Si quiero referenciarla desde un programa:
 
 ```javascript
-console.log(elDoble)
+var elCuadruple = elDoble * 4;
 ```
 
 Kaboom, ¡se romperá! :collision:
