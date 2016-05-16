@@ -1,11 +1,11 @@
-¿Notaste algo extraño en esta línea?
+¿Ooooups, y el resultado? ¿Dónde está lo que imprimimos por pantalla? ¿Es que nuestro programa no anduvo?
 
-```javascript
-console.log("La primera tirada dio " + primeraTirada);
-```
+No, para nada, es que simplemente no te estamos mostrando lo que sale por pantalla :smile:.
 
-Utilizamos el operador `+` de una forma diferente, operando un string y un número, y lo que hizo fue concatenar al string con la representación textual del número. Es decir que:
+¿Por qué? ¿Porque somos malvados? Bueno, quizás en parte :smiling_imp:, pero tenemos además una buena razón: cuando escribís programas reales, es muy, **muy** frecuente que no sea fácil ver lo que el `console.log` imprime, por decenas de motivos.
 
-* si operamos dos números con `+`, se suman
-* si operamos dos strings con `+`, se concatenan
-* si operamos un string y un número `+`, se convierte el número a string, y luego se concatenan
+Entonces, como rara vez vas poder ver _a tiempo_ lo que se imprime en la pantalla, terminan siendo una técnica poco útil.
+
+Moraleja: en los ejercicios que quedan, **no uses `console.log` salvo que te lo pidamos explícitamente**.
+
+¡Nos vemos en el próximo ejercicio!
