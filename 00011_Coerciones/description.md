@@ -1,4 +1,4 @@
-Volamos un momento más al código anterior. ¿Notás algo extraño en esta expresión?
+Volvamos un momento más al código anterior. ¿Notás algo extraño en esta expresión?
 
 ```javascript
 "La primera tirada dio " + primeraTirada
