@@ -1,4 +1,4 @@
-Volvamos un momento más al código anterior. ¿Notás algo extraño en esta expresión?
+Volvamos un momento al código anterior. ¿Notás algo extraño en esta expresión?
 
 ```javascript
 "La primera tirada dio " + primeraTirada
@@ -12,7 +12,7 @@ Utilizamos el operador `+` de una forma diferente, operando un string y un núme
 
 En JavaScript, estas converciones implícitas, también llamadas _coerciones_, ocurren mucho.
 
-_¡Quizás incluso [más de lo que nos gustaría a veces](https://archive.org/details/wat_destroyallsoftware)! _ :sweat:
+_¡Quizás incluso [más de lo que nos gustaría](https://archive.org/details/wat_destroyallsoftware)!_ :sweat:
 
 > Veamos si queda claro, escribí una función `elefantesEquilibristas`, que tome un número de elefantes y **devuelva** una rima de una conocida canción:
 >
