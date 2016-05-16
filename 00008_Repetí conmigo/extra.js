@@ -1,1 +1,1 @@
-console = fakeConsole;
+var console = fakeConsole;
