@@ -20,7 +20,7 @@ for(i = 0; i < 4; i++) {
 
 La diferencia principal entre el `for` y el `repeat`, es que en el `for` vos controlás los valores iniciales, de paso y finales de la iteración. Pero antes de adentrarnos en esto, te dejamos un problema:
 
-> Escribí un programa que dibuje un "cuadrado" de asterisos de 4 por 4:
+> Escribí un programa que dibuje un "cuadrado" de asteriscos de 4 por 4:
 >
 > ```
 > ****
