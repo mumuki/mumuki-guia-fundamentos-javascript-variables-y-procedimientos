@@ -13,7 +13,7 @@ program {
 Por ejemplo, si queremos tirar los dados 4 veces e imprimir su resultado, podríamos escribir lo siguiente:
 
 ```javascript
-for(i = 0; i < 4; i++) {
+for(var i = 0; i < 4; i++) {
    console.log("Salió el " + tirarDado())
 }
 ```
