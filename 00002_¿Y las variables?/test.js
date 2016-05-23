@@ -1,4 +1,4 @@
-describe("pesosEnMiBilletera", function() {
+describe("", function() {
   it("pesosEnMiBilletera vale 100", function() {
     assert.equal(pesosEnMiBilletera, 100);
   })

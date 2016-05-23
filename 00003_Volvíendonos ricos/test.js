@@ -1,4 +1,4 @@
-describe("aumentarFortuna", function() {
+describe("", function() {
   it("el aumentarFortuna duplica variable global pesosEnMiBilletera", function () {
     pesosEnMiBilletera = 100;
     aumentarFortuna();

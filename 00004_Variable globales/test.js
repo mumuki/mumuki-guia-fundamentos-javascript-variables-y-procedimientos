@@ -1,4 +1,4 @@
-describe("asensorSobrecagado", function() {
+describe("", function() {
   it("asensorSobrecagado(4) con pesoPromedioPersonaEnKilogramos = 70", function() {
     pesoPromedioPersonaEnKilogramos = 70;
     assert(!asensorSobrecagado(4))

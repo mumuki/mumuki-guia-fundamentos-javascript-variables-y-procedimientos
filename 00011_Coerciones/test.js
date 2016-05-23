@@ -1,4 +1,4 @@
-describe("elefantesEquilibristas", () => {
+describe("", () => {
   it("elefantesEquilibristas(3)", () => {
     assert.equal(elefantesEquilibristas(3), "3 elefantes se balanceaban");
   })
