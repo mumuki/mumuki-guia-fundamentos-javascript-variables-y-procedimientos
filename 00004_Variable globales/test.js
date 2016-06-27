@@ -5,11 +5,11 @@ describe("", function() {
   })
   it("ascensorSobrecargado(4) con pesoPromedioPersonaEnKilogramos = 80", function() {
     pesoPromedioPersonaEnKilogramos = 80;
-    assert(ascensorSobrercagado(4))
+    assert(ascensorSobrecargado(4))
   })
   it("asensorSobrecagado(2) con pesoPromedioPersonaEnKilogramos = 80", function() {
     pesoPromedioPersonaEnKilogramos = 80;
-    assert(!ascensorSobrercagado(2))
+    assert(!ascensorSobrecargado(2))
   })
   it("ascensorSobrecargado(5) con pesoPromedioPersonaEnKilogramos = 80", function() {
     pesoPromedioPersonaEnKilogramos = 80;
