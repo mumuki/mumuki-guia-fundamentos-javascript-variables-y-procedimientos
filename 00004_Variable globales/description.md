@@ -29,7 +29,7 @@ function puedeLlevar(pesoEquipaje) {
 }
 ```
 
-> Veamos si queda claro: escribí una función `asensorSobrecagado`, que toma una cantidad de personas, y dice si entre todos superan la carga máxima del asensor.
+> Veamos si queda claro: escribí una función `ascensorSobrecargado`, que toma una cantidad de personas, y dice si entre todos superan la carga máxima del ascensor.
 >
 > Tené en cuenta que se estima que la carga máxima del asensor en 300kg, y que el peso promedio por persona es una variable global: `pesoPromedioPersonaEnKilogramos`.
 
