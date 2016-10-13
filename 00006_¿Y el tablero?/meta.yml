@@ -5,3 +5,4 @@ type: playground
 extra_visible: false
 language: 
 teacher_info: 
+manual_evaluation: false
