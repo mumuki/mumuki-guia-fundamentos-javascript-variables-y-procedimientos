@@ -10,6 +10,7 @@ No. En JavaScript, lamentamos informarte, no hay tablero.
 1. Ahora contamos con la consola: una herramienta poderosa que nos permite hacer pruebas más detalladas y flexibles.
 
 > ¿No nos creés? Te presentamos un desafío: usando la consola, ejecuta la función `funcionMisteriosa`, que toma dos argumentos enteros.
+>
 > Por ejemplo: `funcionMisteriosa(1,2)`
 >
 > ¡Vas a ver que podés averiguarlo sin tener un tablero!
