@@ -9,4 +9,4 @@ function funcionEgocentrica() {
 }
 ```
 
-> Probá `funcionEgocentrica` en la consola.
+> Probá `funcionEgocentrica` en la consola. Para probar la función recordá que la tenemos que ejecutar para esto lo que hacemos es poner `funcionEgocentrica()` con los paréntesis, de esta forma le decimos a Javascript, anda y ejecutame funcionEgocentrica, en este caso ya está definida no hace falta que la crees.
