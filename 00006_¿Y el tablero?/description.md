@@ -9,6 +9,7 @@ No. En JavaScript, lamentamos informarte, no hay tablero.
 1. El tablero nos servía para _ver_ lo que nuestro programa hacía y qué resultados generaba. Nos permitía también observar los cambios de estado a causa del programa. Pero ahora ya tenemos experiencia suficiente como para lanzarnos a programar sin tener que "ver" lo que sucede.
 1. Ahora contamos con la consola: una herramienta poderosa que nos permite hacer pruebas más detalladas y flexibles.
 
-> ¿No nos creés? Te presentamos un desafío: usando la consola, decí con tus propias palabras qué hace la función `funcionMisteriosa`, que toma dos argumentos enteros.
+> ¿No nos creés? Te presentamos un desafío: usando la consola, ejecuta la función `funcionMisteriosa`, que toma dos argumentos enteros.
+> Por ejemplo: `funcionMisteriosa(1,2)`
 >
 > ¡Vas a ver que podés averiguarlo sin tener un tablero!
