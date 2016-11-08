@@ -5,7 +5,7 @@ En el ejercicio anterior, construiste una `function` que se ejecutaba con el só
 
 Las funciones en Javascript funcionan como los procedimientos en la unidad anterior. Son sinónimos. La única diferencia está es que las funciones de Javascript pueden llegar a devolver algún valor, mientras que en Gobstones solamente ejecutaban código.
 
-Ahora querememos escribir la siguiente función, fijate que en este caso no está devolviendo nada. Que devuelva o no, no es oblitagorio.
+Ahora querememos escribir la siguiente función, fijate que en este caso no está devolviendo nada. Que devuelva o no, es opcional.
 
 ```javascript
 function versosMartinFierro() {
