@@ -1,4 +1,4 @@
-¿Qué acabamos de hacer esto? Al igual que `Poner(bolita)`, `console.log` es una funcionalidad que siempre está disponible. Si llamamos a la función anterior, veremos que, además de devolver el valor 5, imprime dos líneas:
+¿Qué acabamos de hacer? Al igual que `Poner(bolita)`, `console.log` es una funcionalidad que siempre está disponible. Si llamamos a la función anterior, veremos que, además de devolver el valor 5, imprime dos líneas:
 
 ```
 soy una función que imprime por pantalla
@@ -17,4 +17,8 @@ Sin embargo, sólo podemos escribir strings, y una vez que escribimos en la pant
 >```
 >
 > Esta `function` debe devolver 0
+> Recordá que para que devuelva 0, al final de todo en la función deberías agregar:
+>```
+> return 0
+>```
 
