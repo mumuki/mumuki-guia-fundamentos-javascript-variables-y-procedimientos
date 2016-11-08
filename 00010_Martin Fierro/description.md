@@ -16,7 +16,8 @@ Sin embargo, sólo podemos escribir strings, y una vez que escribimos en la pant
 > Una pena extraordinaria
 >```
 >
-> Esta `function` debe devolver 0
+> Esta `function` debe devolver 0.
+>
 > Recordá que para que devuelva 0, al final de todo en la función deberías agregar:
 >```
 > return 0
