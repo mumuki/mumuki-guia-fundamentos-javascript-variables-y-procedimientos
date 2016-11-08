@@ -5,11 +5,6 @@ En el ejercicio anterior, construiste una `function` que se ejecutaba con el só
 
 Las funciones en Javascript funcionan como los procedimientos en la unidad anterior. Son sinónimos. La única diferencia está es que las funciones de Javascript pueden llegar a devolver algún valor, mientras que en Gobstones solamente ejecutaban código.
 
-Otra pista clave que a las funciones las definiremos siempre en camelCase. Es decir escribiendoAsi. Minúscula seguida de la próxima palabra con mayúscula.
-
-Los procedimientos encambio comienzan Con Mayúscula.
-
-
 Ahora querememos escribir la siguiente función, fijate que en este caso no está devolviendo nada. Que devuelva o no, no es oblitagorio.
 
 ```javascript
