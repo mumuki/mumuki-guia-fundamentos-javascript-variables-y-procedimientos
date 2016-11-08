@@ -16,4 +16,4 @@ function versosMartinFierro() {
 }
 ```
 
-> Envía esta nueva versión de `versosMartinFierro`
+> Escribí esta nueva versión de `versosMartinFierro`, no te tientes a copiar y pegar
