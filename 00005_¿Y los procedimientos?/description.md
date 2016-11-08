@@ -10,6 +10,7 @@ Otra pista clave que a las funciones las definiremos siempre en camelCase. Es de
 Los procedimientos encambio comienzan Con Mayúscula.
 
 
+Ahora querememos escribir la siguiente función, fijate que en este caso no está devolviendo nada. Que devuelva o no, no es oblitagorio.
 
 ```javascript
 function versosMartinFierro() {
