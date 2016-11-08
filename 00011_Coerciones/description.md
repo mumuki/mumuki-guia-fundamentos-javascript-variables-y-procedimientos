@@ -23,3 +23,5 @@ _¡Quizás incluso [más de lo que nos gustaría](https://archive.org/details/wa
 > "462 elefantes se balanceaban"
 > ```
 >
+> Recordá para devolver algo con las funciones utilizabamos `return`, no utilices `console.log`
+>
