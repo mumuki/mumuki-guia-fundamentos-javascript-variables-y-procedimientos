@@ -1,7 +1,7 @@
 Javascript nos deja cambiar a piachere las variables tanto fuera como dentro de las funciones.
 
 ```javascript
-var numero = 0;
+var numero = 0; //Declaramos la variable global numero y le asignamos un 0
 numero = numero + 1;
 console.log(numero); //esto imprimirá 1 en la consola
 
