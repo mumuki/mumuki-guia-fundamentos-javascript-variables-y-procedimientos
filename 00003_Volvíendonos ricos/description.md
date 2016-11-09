@@ -7,8 +7,10 @@ console.log(numero); //esto imprimirá 1 en la consola
 
 function nuevoNumero() {
   numero = 0;
-  console.log(numero); //esto imprimirá 0 en la consola, es decir, pisamos el valor de la variable por 0.
+  console.log(numero); //esto imprimirá 0 en la consola, es decir, pisamos el valor de la variable número por 0.
 }
+
+
 ```
 
 > ¡Ahora vamos a hacer algo de dinero :moneybag:!
